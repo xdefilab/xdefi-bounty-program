@@ -6,6 +6,12 @@ Allows anyone to get bounties for any development issues, paid out in ERC20 XDEX
 
 The team aims to respond to any submissions as fast as possible. Feel free to [email](mailto:info@xdefi.com) us if you have any questions.
 
+## XDEX ERC20 Token
+
+Token address: `0x000000000000d0151E748d25b766e77efe2A6c83`
+
+The Web Interface is https://etherscan.io/token/0x000000000000d0151E748d25b766e77efe2A6c83
+
 ## What you Should Know
 
 You should taking those:
